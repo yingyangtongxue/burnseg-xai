@@ -1,0 +1,1047 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="focos_qmd_inpe_2024_08_01_2024_10_31_29.304993" id="focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+	<SimpleField name="DataHora" type="string"></SimpleField>
+	<SimpleField name="Satelite" type="string"></SimpleField>
+	<SimpleField name="Pais" type="string"></SimpleField>
+	<SimpleField name="Estado" type="string"></SimpleField>
+	<SimpleField name="Municipio" type="string"></SimpleField>
+	<SimpleField name="Bioma" type="string"></SimpleField>
+	<SimpleField name="DiaSemChuva" type="string"></SimpleField>
+	<SimpleField name="Precipitacao" type="float"></SimpleField>
+	<SimpleField name="RiscoFogo" type="float"></SimpleField>
+	<SimpleField name="Latitude" type="float"></SimpleField>
+	<SimpleField name="Longitude" type="float"></SimpleField>
+	<SimpleField name="FRP" type="float"></SimpleField>
+	<SimpleField name="AreaProtegida" type="string"></SimpleField>
+</Schema>
+<Folder><name>focos_qmd_inpe_2024_08_01_2024_10_31_29.304993</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/09/06 19:15:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">26</SimpleData>
+		<SimpleData name="Precipitacao">0.15</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">-10.03032</SimpleData>
+		<SimpleData name="Longitude">-64.42158</SimpleData>
+		<SimpleData name="FRP">31.2</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.42158,-10.03032</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/09/17 18:26:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">5</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">-10.1363</SimpleData>
+		<SimpleData name="Longitude">-64.43764</SimpleData>
+		<SimpleData name="FRP">13.9</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.43764,-10.1363</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/08/15 19:10:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">16</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">-10.19564</SimpleData>
+		<SimpleData name="Longitude">-64.51211</SimpleData>
+		<SimpleData name="FRP">61.4</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.51211,-10.19564</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/09/25 18:53:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">3</SimpleData>
+		<SimpleData name="Precipitacao">0.2</SimpleData>
+		<SimpleData name="RiscoFogo">0.99</SimpleData>
+		<SimpleData name="Latitude">-10.0846</SimpleData>
+		<SimpleData name="Longitude">-64.47113</SimpleData>
+		<SimpleData name="FRP">16.8</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.47113,-10.0846</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/10/02 18:43:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">1</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">0.87</SimpleData>
+		<SimpleData name="Latitude">-10.11682</SimpleData>
+		<SimpleData name="Longitude">-64.43219</SimpleData>
+		<SimpleData name="FRP">19.2</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.43219,-10.11682</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/09/07 18:17:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">2</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">-10.15473</SimpleData>
+		<SimpleData name="Longitude">-64.47678</SimpleData>
+		<SimpleData name="FRP">30.5</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.47678,-10.15473</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/09/13 19:04:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">PORTO VELHO</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">63</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">-9.59136</SimpleData>
+		<SimpleData name="Longitude">-64.36275</SimpleData>
+		<SimpleData name="FRP">118.6</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.36275,-9.59136</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/08/14 18:30:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">11</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">-10.14782</SimpleData>
+		<SimpleData name="Longitude">-64.48394</SimpleData>
+		<SimpleData name="FRP">16.5</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.48394,-10.14782</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/08/14 18:30:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">10</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">-10.13904</SimpleData>
+		<SimpleData name="Longitude">-64.45985</SimpleData>
+		<SimpleData name="FRP">10</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.45985,-10.13904</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/09/25 18:53:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">2</SimpleData>
+		<SimpleData name="Precipitacao">0.42</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">-10.11927</SimpleData>
+		<SimpleData name="Longitude">-64.4358</SimpleData>
+		<SimpleData name="FRP">41.1</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.4358,-10.11927</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/08/14 18:30:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">11</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">-10.14046</SimpleData>
+		<SimpleData name="Longitude">-64.46989</SimpleData>
+		<SimpleData name="FRP">14</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.46989,-10.14046</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/09/24 18:13:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">2</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">-10.08913</SimpleData>
+		<SimpleData name="Longitude">-64.47655</SimpleData>
+		<SimpleData name="FRP">39.1</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.47655,-10.08913</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/08/15 19:10:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">23</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">-10.27179</SimpleData>
+		<SimpleData name="Longitude">-64.52477</SimpleData>
+		<SimpleData name="FRP">195.1</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.52477,-10.27179</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/08/04 18:17:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">41</SimpleData>
+		<SimpleData name="Precipitacao">1.74</SimpleData>
+		<SimpleData name="RiscoFogo">0.68</SimpleData>
+		<SimpleData name="Latitude">-10.20364</SimpleData>
+		<SimpleData name="Longitude">-64.48177</SimpleData>
+		<SimpleData name="FRP">22.8</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.48177,-10.20364</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/08/14 18:30:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">12</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">-10.13109</SimpleData>
+		<SimpleData name="Longitude">-64.47123</SimpleData>
+		<SimpleData name="FRP">39.9</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.47123,-10.13109</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/09/24 18:13:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">2</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">-10.11028</SimpleData>
+		<SimpleData name="Longitude">-64.43077</SimpleData>
+		<SimpleData name="FRP">63.8</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.43077,-10.11028</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/08/24 18:41:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">44</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">-10.02262</SimpleData>
+		<SimpleData name="Longitude">-64.4045</SimpleData>
+		<SimpleData name="FRP">33.4</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.4045,-10.02262</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/09/13 19:04:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">PORTO VELHO</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">62</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">-9.59895</SimpleData>
+		<SimpleData name="Longitude">-64.36857</SimpleData>
+		<SimpleData name="FRP">31</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.36857,-9.59895</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/09/17 18:26:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">5</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">-10.13792</SimpleData>
+		<SimpleData name="Longitude">-64.44944</SimpleData>
+		<SimpleData name="FRP">45.2</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.44944,-10.13792</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/08/15 19:10:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">15</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">-10.19461</SimpleData>
+		<SimpleData name="Longitude">-64.51741</SimpleData>
+		<SimpleData name="FRP">32.2</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.51741,-10.19461</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/10/02 18:43:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">1</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">0.85</SimpleData>
+		<SimpleData name="Latitude">-10.06713</SimpleData>
+		<SimpleData name="Longitude">-64.40884</SimpleData>
+		<SimpleData name="FRP">37.7</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.40884,-10.06713</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/09/12 18:21:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">PORTO VELHO</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">3</SimpleData>
+		<SimpleData name="Precipitacao">0.2</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">-9.92103</SimpleData>
+		<SimpleData name="Longitude">-64.43006</SimpleData>
+		<SimpleData name="FRP">16.2</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.43006,-9.92103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/09/24 18:13:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">2</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">-10.09318</SimpleData>
+		<SimpleData name="Longitude">-64.48101</SimpleData>
+		<SimpleData name="FRP">30.4</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.48101,-10.09318</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/09/24 18:13:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">2</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">-10.12348</SimpleData>
+		<SimpleData name="Longitude">-64.42916</SimpleData>
+		<SimpleData name="FRP">83.3</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.42916,-10.12348</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/10/02 18:43:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">0</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">0.84</SimpleData>
+		<SimpleData name="Latitude">-10.06843</SimpleData>
+		<SimpleData name="Longitude">-64.41779</SimpleData>
+		<SimpleData name="FRP">12.1</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.41779,-10.06843</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/09/01 19:10:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">34</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">-10.07524</SimpleData>
+		<SimpleData name="Longitude">-64.48532</SimpleData>
+		<SimpleData name="FRP">45.2</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.48532,-10.07524</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/09/07 18:17:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">2</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">-10.1474</SimpleData>
+		<SimpleData name="Longitude">-64.46699</SimpleData>
+		<SimpleData name="FRP">31.3</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.46699,-10.1474</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/09/01 19:10:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">35</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">-10.08414</SimpleData>
+		<SimpleData name="Longitude">-64.49131</SimpleData>
+		<SimpleData name="FRP">48.6</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.49131,-10.08414</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/09/24 18:13:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">5</SimpleData>
+		<SimpleData name="Precipitacao">0.95</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">-10.18735</SimpleData>
+		<SimpleData name="Longitude">-64.50714</SimpleData>
+		<SimpleData name="FRP">37.9</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.50714,-10.18735</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/09/25 18:53:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">2</SimpleData>
+		<SimpleData name="Precipitacao">0.41</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">-10.10743</SimpleData>
+		<SimpleData name="Longitude">-64.42584</SimpleData>
+		<SimpleData name="FRP">59.7</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.42584,-10.10743</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/08/31 18:30:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">31</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">-10.08679</SimpleData>
+		<SimpleData name="Longitude">-64.48705</SimpleData>
+		<SimpleData name="FRP">157.5</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.48705,-10.08679</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/08/05 19:00:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">9</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">0.81</SimpleData>
+		<SimpleData name="Latitude">-10.19921</SimpleData>
+		<SimpleData name="Longitude">-64.4838</SimpleData>
+		<SimpleData name="FRP">19.7</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.4838,-10.19921</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/08/14 18:30:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">11</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">-10.12967</SimpleData>
+		<SimpleData name="Longitude">-64.46117</SimpleData>
+		<SimpleData name="FRP">43.6</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.46117,-10.12967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/09/25 18:53:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">3</SimpleData>
+		<SimpleData name="Precipitacao">0.2</SimpleData>
+		<SimpleData name="RiscoFogo">0.98</SimpleData>
+		<SimpleData name="Latitude">-10.08474</SimpleData>
+		<SimpleData name="Longitude">-64.47728</SimpleData>
+		<SimpleData name="FRP">11.5</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.47728,-10.08474</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/08/31 18:30:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">35</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">-10.08827</SimpleData>
+		<SimpleData name="Longitude">-64.49756</SimpleData>
+		<SimpleData name="FRP">13.5</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.49756,-10.08827</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/10/02 18:43:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">1</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">0.87</SimpleData>
+		<SimpleData name="Latitude">-10.11552</SimpleData>
+		<SimpleData name="Longitude">-64.42323</SimpleData>
+		<SimpleData name="FRP">30.1</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.42323,-10.11552</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/10/12 18:49:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">2</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">0.8</SimpleData>
+		<SimpleData name="Latitude">-10.05682</SimpleData>
+		<SimpleData name="Longitude">-64.47302</SimpleData>
+		<SimpleData name="FRP">61.2</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.47302,-10.05682</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/08/26 18:24:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">8</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">-10.20254</SimpleData>
+		<SimpleData name="Longitude">-64.47994</SimpleData>
+		<SimpleData name="FRP">10.6</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.47994,-10.20254</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/09/24 18:13:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">4</SimpleData>
+		<SimpleData name="Precipitacao">0.88</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">-10.18384</SimpleData>
+		<SimpleData name="Longitude">-64.50053</SimpleData>
+		<SimpleData name="FRP">19.2</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.50053,-10.18384</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/09/06 19:15:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">20</SimpleData>
+		<SimpleData name="Precipitacao">0.11</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">-10.03433</SimpleData>
+		<SimpleData name="Longitude">-64.42843</SimpleData>
+		<SimpleData name="FRP">25.9</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.42843,-10.03433</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/09/23 19:13:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">0</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">-10.10468</SimpleData>
+		<SimpleData name="Longitude">-64.41331</SimpleData>
+		<SimpleData name="FRP">30.9</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.41331,-10.10468</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/10/05 19:04:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">2</SimpleData>
+		<SimpleData name="Precipitacao">10.9</SimpleData>
+		<SimpleData name="RiscoFogo">0.02</SimpleData>
+		<SimpleData name="Latitude">-10.15212</SimpleData>
+		<SimpleData name="Longitude">-64.48022</SimpleData>
+		<SimpleData name="FRP">15.7</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.48022,-10.15212</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/08/31 18:30:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">26</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">-10.08531</SimpleData>
+		<SimpleData name="Longitude">-64.47654</SimpleData>
+		<SimpleData name="FRP">35.4</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.47654,-10.08531</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/08/14 18:30:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">11</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">-10.14189</SimpleData>
+		<SimpleData name="Longitude">-64.47997</SimpleData>
+		<SimpleData name="FRP">18.4</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.47997,-10.14189</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/10/12 18:49:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">2</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">0.79</SimpleData>
+		<SimpleData name="Latitude">-10.05826</SimpleData>
+		<SimpleData name="Longitude">-64.48259</SimpleData>
+		<SimpleData name="FRP">41.9</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.48259,-10.05826</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/09/25 18:53:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">2</SimpleData>
+		<SimpleData name="Precipitacao">0.4</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">-10.10926</SimpleData>
+		<SimpleData name="Longitude">-64.43751</SimpleData>
+		<SimpleData name="FRP">46.2</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.43751,-10.10926</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/09/25 18:53:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">2</SimpleData>
+		<SimpleData name="Precipitacao">0.47</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">-10.11745</SimpleData>
+		<SimpleData name="Longitude">-64.42416</SimpleData>
+		<SimpleData name="FRP">43.3</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.42416,-10.11745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/09/12 18:21:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">PORTO VELHO</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">2</SimpleData>
+		<SimpleData name="Precipitacao">0.22</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">-9.92291</SimpleData>
+		<SimpleData name="Longitude">-64.44403</SimpleData>
+		<SimpleData name="FRP">34</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.44403,-9.92291</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/08/14 18:30:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">11</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">-10.15721</SimpleData>
+		<SimpleData name="Longitude">-64.4826</SimpleData>
+		<SimpleData name="FRP">18.7</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.4826,-10.15721</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/08/15 19:10:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">18</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">-10.19107</SimpleData>
+		<SimpleData name="Longitude">-64.48592</SimpleData>
+		<SimpleData name="FRP">24</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.48592,-10.19107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/08/14 18:30:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">10</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">-10.14644</SimpleData>
+		<SimpleData name="Longitude">-64.47386</SimpleData>
+		<SimpleData name="FRP">25.7</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.47386,-10.14644</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/09/20 18:49:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">PORTO VELHO</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">5</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">-9.90851</SimpleData>
+		<SimpleData name="Longitude">-64.43684</SimpleData>
+		<SimpleData name="FRP">15.7</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.43684,-9.90851</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/10/02 18:43:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">1</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">0.86</SimpleData>
+		<SimpleData name="Latitude">-10.11423</SimpleData>
+		<SimpleData name="Longitude">-64.41429</SimpleData>
+		<SimpleData name="FRP">21.4</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.41429,-10.11423</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/08/24 18:41:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">52</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">-10.0302</SimpleData>
+		<SimpleData name="Longitude">-64.3941</SimpleData>
+		<SimpleData name="FRP">10.2</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.3941,-10.0302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/09/12 18:24:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">PORTO VELHO</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">68</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">-9.59547</SimpleData>
+		<SimpleData name="Longitude">-64.38047</SimpleData>
+		<SimpleData name="FRP">47.3</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.38047,-9.59547</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/09/07 18:17:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">2</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">-10.1497</SimpleData>
+		<SimpleData name="Longitude">-64.48431</SimpleData>
+		<SimpleData name="FRP">32</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.48431,-10.1497</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_08_01_2024_10_31_29.304993">
+		<SimpleData name="DataHora">2024/08/15 19:10:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RONDÔNIA</SimpleData>
+		<SimpleData name="Municipio">NOVA MAMORÉ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">22</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">-10.26042</SimpleData>
+		<SimpleData name="Longitude">-64.51923</SimpleData>
+		<SimpleData name="FRP">58.9</SimpleData>
+		<SimpleData name="AreaProtegida">TI KARIPUNA (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.51923,-10.26042</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

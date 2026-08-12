@@ -1,0 +1,2361 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="focos_qmd_inpe_2024_02_29_2024_03_31_57.011423" id="focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+	<SimpleField name="DataHora" type="string"></SimpleField>
+	<SimpleField name="Satelite" type="string"></SimpleField>
+	<SimpleField name="Pais" type="string"></SimpleField>
+	<SimpleField name="Estado" type="string"></SimpleField>
+	<SimpleField name="Municipio" type="string"></SimpleField>
+	<SimpleField name="Bioma" type="string"></SimpleField>
+	<SimpleField name="DiaSemChuva" type="string"></SimpleField>
+	<SimpleField name="Precipitacao" type="float"></SimpleField>
+	<SimpleField name="RiscoFogo" type="float"></SimpleField>
+	<SimpleField name="Latitude" type="float"></SimpleField>
+	<SimpleField name="Longitude" type="float"></SimpleField>
+	<SimpleField name="FRP" type="float"></SimpleField>
+	<SimpleField name="AreaProtegida" type="string"></SimpleField>
+</Schema>
+<Folder><name>focos_qmd_inpe_2024_02_29_2024_03_31_57.011423</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">5</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.39462</SimpleData>
+		<SimpleData name="Longitude">-61.94886</SimpleData>
+		<SimpleData name="FRP">18.4</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.94886,2.39462</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">8</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.45309</SimpleData>
+		<SimpleData name="Longitude">-61.99012</SimpleData>
+		<SimpleData name="FRP">54</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.99012,2.45309</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/27 18:19:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">AMAJARI</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">0</SimpleData>
+		<SimpleData name="Precipitacao">0.2</SimpleData>
+		<SimpleData name="RiscoFogo">0.64</SimpleData>
+		<SimpleData name="Latitude">3.887</SimpleData>
+		<SimpleData name="Longitude">-62.59608</SimpleData>
+		<SimpleData name="FRP">6.1</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.59608,3.887</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/15 18:17:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">10</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.49983</SimpleData>
+		<SimpleData name="Longitude">-61.96653</SimpleData>
+		<SimpleData name="FRP">27.2</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.96653,2.49983</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/31 17:47:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">CARACARAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">1</SimpleData>
+		<SimpleData name="Precipitacao">0.1</SimpleData>
+		<SimpleData name="RiscoFogo">0.85</SimpleData>
+		<SimpleData name="Latitude">1.89646</SimpleData>
+		<SimpleData name="Longitude">-61.46456</SimpleData>
+		<SimpleData name="FRP">44.9</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.46456,1.89646</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/21 17:28:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">CARACARAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">5</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">1.94715</SimpleData>
+		<SimpleData name="Longitude">-61.44683</SimpleData>
+		<SimpleData name="FRP">74.8</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.44683,1.94715</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">CARACARAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">12</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">0.97</SimpleData>
+		<SimpleData name="Latitude">1.73974</SimpleData>
+		<SimpleData name="Longitude">-62.07198</SimpleData>
+		<SimpleData name="FRP">20.1</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.07198,1.73974</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/10 18:06:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">AMAJARI</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">12</SimpleData>
+		<SimpleData name="Precipitacao">0.3</SimpleData>
+		<SimpleData name="RiscoFogo">0.94</SimpleData>
+		<SimpleData name="Latitude">3.23895</SimpleData>
+		<SimpleData name="Longitude">-62.61032</SimpleData>
+		<SimpleData name="FRP">7.1</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.61032,3.23895</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">CARACARAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">6</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">1.93206</SimpleData>
+		<SimpleData name="Longitude">-61.44835</SimpleData>
+		<SimpleData name="FRP">188.8</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.44835,1.93206</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">CARACARAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">13</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">0.98</SimpleData>
+		<SimpleData name="Latitude">1.76215</SimpleData>
+		<SimpleData name="Longitude">-62.11839</SimpleData>
+		<SimpleData name="FRP">13.8</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.11839,1.76215</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">IRACEMA</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">36</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.15435</SimpleData>
+		<SimpleData name="Longitude">-61.44464</SimpleData>
+		<SimpleData name="FRP">13.7</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.44464,2.15435</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/15 18:17:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">8</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">0.99</SimpleData>
+		<SimpleData name="Latitude">2.39516</SimpleData>
+		<SimpleData name="Longitude">-61.99337</SimpleData>
+		<SimpleData name="FRP">35.7</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.99337,2.39516</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/27 18:19:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">IRACEMA</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">2</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">0.86</SimpleData>
+		<SimpleData name="Latitude">2.0482</SimpleData>
+		<SimpleData name="Longitude">-61.487</SimpleData>
+		<SimpleData name="FRP">10.8</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.487,2.0482</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/15 18:17:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">11</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.44658</SimpleData>
+		<SimpleData name="Longitude">-61.89537</SimpleData>
+		<SimpleData name="FRP">23</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.89537,2.44658</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">5</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.39077</SimpleData>
+		<SimpleData name="Longitude">-61.97538</SimpleData>
+		<SimpleData name="FRP">23.9</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.97538,2.39077</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">12</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.50633</SimpleData>
+		<SimpleData name="Longitude">-61.9979</SimpleData>
+		<SimpleData name="FRP">14.5</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.9979,2.50633</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">IRACEMA</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">26</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.11102</SimpleData>
+		<SimpleData name="Longitude">-61.42375</SimpleData>
+		<SimpleData name="FRP">9.8</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.42375,2.11102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">ALTO ALEGRE</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">6</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.72842</SimpleData>
+		<SimpleData name="Longitude">-61.94093</SimpleData>
+		<SimpleData name="FRP">17.9</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.94093,2.72842</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">CARACARAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">13</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">1.93718</SimpleData>
+		<SimpleData name="Longitude">-61.41308</SimpleData>
+		<SimpleData name="FRP">37.1</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.41308,1.93718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">CARACARAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">12</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">1.94605</SimpleData>
+		<SimpleData name="Longitude">-61.41438</SimpleData>
+		<SimpleData name="FRP">11.5</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.41438,1.94605</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/15 18:15:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">AMAZONAS</SimpleData>
+		<SimpleData name="Municipio">SANTA ISABEL DO RIO NEGRO</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">2</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">0.02</SimpleData>
+		<SimpleData name="Latitude">0.07964</SimpleData>
+		<SimpleData name="Longitude">-65.04414</SimpleData>
+		<SimpleData name="FRP">12.2</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-65.04414,0.07964</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">8</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.46325</SimpleData>
+		<SimpleData name="Longitude">-61.98258</SimpleData>
+		<SimpleData name="FRP">34.4</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.98258,2.46325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">CARACARAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">6</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">1.93079</SimpleData>
+		<SimpleData name="Longitude">-61.45716</SimpleData>
+		<SimpleData name="FRP">59.2</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.45716,1.93079</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/10 18:06:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">ALTO ALEGRE</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">6</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.72944</SimpleData>
+		<SimpleData name="Longitude">-61.86417</SimpleData>
+		<SimpleData name="FRP">13.3</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.86417,2.72944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/10 18:06:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">ALTO ALEGRE</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">4</SimpleData>
+		<SimpleData name="Precipitacao">1.86</SimpleData>
+		<SimpleData name="RiscoFogo">0.71</SimpleData>
+		<SimpleData name="Latitude">2.83286</SimpleData>
+		<SimpleData name="Longitude">-63.61386</SimpleData>
+		<SimpleData name="FRP">8.8</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-63.61386,2.83286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">CARACARAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">13</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">1.79129</SimpleData>
+		<SimpleData name="Longitude">-62.16807</SimpleData>
+		<SimpleData name="FRP">7.5</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.16807,1.79129</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/15 18:15:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">AMAZONAS</SimpleData>
+		<SimpleData name="Municipio">BARCELOS</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">2</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">0.58</SimpleData>
+		<SimpleData name="Latitude">0.8477</SimpleData>
+		<SimpleData name="Longitude">-62.62392</SimpleData>
+		<SimpleData name="FRP">8</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.62392,0.8477</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/15 18:17:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">8</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">0.99</SimpleData>
+		<SimpleData name="Latitude">2.40427</SimpleData>
+		<SimpleData name="Longitude">-61.9947</SimpleData>
+		<SimpleData name="FRP">10.5</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.9947,2.40427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/11 18:47:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">ALTO ALEGRE</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">7</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.76125</SimpleData>
+		<SimpleData name="Longitude">-61.87513</SimpleData>
+		<SimpleData name="FRP">59.9</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.87513,2.76125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/08 18:21:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">4</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">0.89</SimpleData>
+		<SimpleData name="Latitude">2.6796</SimpleData>
+		<SimpleData name="Longitude">-61.87113</SimpleData>
+		<SimpleData name="FRP">12.4</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.87113,2.6796</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/21 17:28:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">IRACEMA</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">36</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.1616</SimpleData>
+		<SimpleData name="Longitude">-61.44416</SimpleData>
+		<SimpleData name="FRP">41.8</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.44416,2.1616</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">15</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.53172</SimpleData>
+		<SimpleData name="Longitude">-61.96307</SimpleData>
+		<SimpleData name="FRP">55</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.96307,2.53172</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/15 18:17:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">ALTO ALEGRE</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">6</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.75545</SimpleData>
+		<SimpleData name="Longitude">-62.05119</SimpleData>
+		<SimpleData name="FRP">23.2</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.05119,2.75545</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">CARACARAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">7</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">1.94221</SimpleData>
+		<SimpleData name="Longitude">-61.44082</SimpleData>
+		<SimpleData name="FRP">57.4</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.44082,1.94221</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/14 17:34:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">CARACARAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">17</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">1.97055</SimpleData>
+		<SimpleData name="Longitude">-61.41216</SimpleData>
+		<SimpleData name="FRP">48</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.41216,1.97055</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">ALTO ALEGRE</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">8</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.70813</SimpleData>
+		<SimpleData name="Longitude">-61.95598</SimpleData>
+		<SimpleData name="FRP">41.2</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.95598,2.70813</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">16</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.49273</SimpleData>
+		<SimpleData name="Longitude">-61.77958</SimpleData>
+		<SimpleData name="FRP">11.7</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.77958,2.49273</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">16</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.63488</SimpleData>
+		<SimpleData name="Longitude">-61.82167</SimpleData>
+		<SimpleData name="FRP">6.5</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.82167,2.63488</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">IRACEMA</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">37</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.18222</SimpleData>
+		<SimpleData name="Longitude">-61.4397</SimpleData>
+		<SimpleData name="FRP">18.3</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.4397,2.18222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">ALTO ALEGRE</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">15</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.80199</SimpleData>
+		<SimpleData name="Longitude">-61.87059</SimpleData>
+		<SimpleData name="FRP">23.8</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.87059,2.80199</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/15 18:15:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">AMAZONAS</SimpleData>
+		<SimpleData name="Municipio">SANTA ISABEL DO RIO NEGRO</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">2</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">0.02</SimpleData>
+		<SimpleData name="Latitude">0.07818</SimpleData>
+		<SimpleData name="Longitude">-65.05405</SimpleData>
+		<SimpleData name="FRP">13.8</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-65.05405,0.07818</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/10 18:06:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">AMAJARI</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">4</SimpleData>
+		<SimpleData name="Precipitacao">2.64</SimpleData>
+		<SimpleData name="RiscoFogo">0.47</SimpleData>
+		<SimpleData name="Latitude">3.56276</SimpleData>
+		<SimpleData name="Longitude">-62.72862</SimpleData>
+		<SimpleData name="FRP">17</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.72862,3.56276</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">CARACARAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">13</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">0.99</SimpleData>
+		<SimpleData name="Latitude">1.7839</SimpleData>
+		<SimpleData name="Longitude">-62.09402</SimpleData>
+		<SimpleData name="FRP">12.5</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.09402,1.7839</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/15 18:17:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">7</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">0.98</SimpleData>
+		<SimpleData name="Latitude">2.40158</SimpleData>
+		<SimpleData name="Longitude">-62.01339</SimpleData>
+		<SimpleData name="FRP">110</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.01339,2.40158</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">ALTO ALEGRE</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">8</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.77895</SimpleData>
+		<SimpleData name="Longitude">-62.02948</SimpleData>
+		<SimpleData name="FRP">51.5</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.02948,2.77895</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">IRACEMA</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">32</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.13534</SimpleData>
+		<SimpleData name="Longitude">-61.45088</SimpleData>
+		<SimpleData name="FRP">21.2</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.45088,2.13534</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/27 18:19:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">CARACARAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">2</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">0.83</SimpleData>
+		<SimpleData name="Latitude">1.91357</SimpleData>
+		<SimpleData name="Longitude">-61.45148</SimpleData>
+		<SimpleData name="FRP">9</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.45148,1.91357</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/27 18:19:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">AMAJARI</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">10</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">0.93</SimpleData>
+		<SimpleData name="Latitude">3.16446</SimpleData>
+		<SimpleData name="Longitude">-62.29707</SimpleData>
+		<SimpleData name="FRP">18.4</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.29707,3.16446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">17</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.65753</SimpleData>
+		<SimpleData name="Longitude">-61.91505</SimpleData>
+		<SimpleData name="FRP">12.9</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.91505,2.65753</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/10 18:06:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">AMAJARI</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">3</SimpleData>
+		<SimpleData name="Precipitacao">0.3</SimpleData>
+		<SimpleData name="RiscoFogo">0.6</SimpleData>
+		<SimpleData name="Latitude">3.95905</SimpleData>
+		<SimpleData name="Longitude">-64.45114</SimpleData>
+		<SimpleData name="FRP">18.1</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.45114,3.95905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/10 18:06:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">AMAJARI</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">4</SimpleData>
+		<SimpleData name="Precipitacao">2.72</SimpleData>
+		<SimpleData name="RiscoFogo">0.46</SimpleData>
+		<SimpleData name="Latitude">3.5615</SimpleData>
+		<SimpleData name="Longitude">-62.73728</SimpleData>
+		<SimpleData name="FRP">11.6</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.73728,3.5615</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/02/29 17:49:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">AMAJARI</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">9</SimpleData>
+		<SimpleData name="Precipitacao">0.02</SimpleData>
+		<SimpleData name="RiscoFogo">0.7</SimpleData>
+		<SimpleData name="Latitude">3.85703</SimpleData>
+		<SimpleData name="Longitude">-62.57936</SimpleData>
+		<SimpleData name="FRP">17.6</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.57936,3.85703</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">7</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.39975</SimpleData>
+		<SimpleData name="Longitude">-61.91353</SimpleData>
+		<SimpleData name="FRP">9.6</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.91353,2.39975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/15 18:17:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">CARACARAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">6</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">0.92</SimpleData>
+		<SimpleData name="Latitude">1.78556</SimpleData>
+		<SimpleData name="Longitude">-62.12695</SimpleData>
+		<SimpleData name="FRP">10.8</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.12695,1.78556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">13</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.68156</SimpleData>
+		<SimpleData name="Longitude">-61.9366</SimpleData>
+		<SimpleData name="FRP">16.7</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.9366,2.68156</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">5</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.39334</SimpleData>
+		<SimpleData name="Longitude">-61.9577</SimpleData>
+		<SimpleData name="FRP">21.2</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.9577,2.39334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/21 17:28:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">CARACARAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">7</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">1.94513</SimpleData>
+		<SimpleData name="Longitude">-61.43901</SimpleData>
+		<SimpleData name="FRP">75</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.43901,1.94513</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">IRACEMA</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">35</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.14676</SimpleData>
+		<SimpleData name="Longitude">-61.43454</SimpleData>
+		<SimpleData name="FRP">15.1</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.43454,2.14676</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/07 17:41:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">3</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">0.84</SimpleData>
+		<SimpleData name="Latitude">2.68249</SimpleData>
+		<SimpleData name="Longitude">-61.88664</SimpleData>
+		<SimpleData name="FRP">29.7</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.88664,2.68249</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">CARACARAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">12</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">0.97</SimpleData>
+		<SimpleData name="Latitude">1.73083</SimpleData>
+		<SimpleData name="Longitude">-62.07082</SimpleData>
+		<SimpleData name="FRP">18.6</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.07082,1.73083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/17 18:00:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">9</SimpleData>
+		<SimpleData name="Precipitacao">1.47</SimpleData>
+		<SimpleData name="RiscoFogo">0.73</SimpleData>
+		<SimpleData name="Latitude">2.41524</SimpleData>
+		<SimpleData name="Longitude">-62.01256</SimpleData>
+		<SimpleData name="FRP">21.1</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.01256,2.41524</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">15</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.533</SimpleData>
+		<SimpleData name="Longitude">-61.95424</SimpleData>
+		<SimpleData name="FRP">11.2</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.95424,2.533</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/17 18:00:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">11</SimpleData>
+		<SimpleData name="Precipitacao">0.85</SimpleData>
+		<SimpleData name="RiscoFogo">0.82</SimpleData>
+		<SimpleData name="Latitude">2.48064</SimpleData>
+		<SimpleData name="Longitude">-61.96864</SimpleData>
+		<SimpleData name="FRP">17.2</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.96864,2.48064</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">16</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.56218</SimpleData>
+		<SimpleData name="Longitude">-61.94046</SimpleData>
+		<SimpleData name="FRP">8.6</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.94046,2.56218</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">IRACEMA</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">32</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.13662</SimpleData>
+		<SimpleData name="Longitude">-61.44206</SimpleData>
+		<SimpleData name="FRP">15.5</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.44206,2.13662</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">ALTO ALEGRE</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">4</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">0.81</SimpleData>
+		<SimpleData name="Latitude">2.52228</SimpleData>
+		<SimpleData name="Longitude">-63.90062</SimpleData>
+		<SimpleData name="FRP">9.8</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-63.90062,2.52228</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/10 18:06:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">ALTO ALEGRE</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">21</SimpleData>
+		<SimpleData name="Precipitacao">1.22</SimpleData>
+		<SimpleData name="RiscoFogo">0.78</SimpleData>
+		<SimpleData name="Latitude">3.39258</SimpleData>
+		<SimpleData name="Longitude">-63.76629</SimpleData>
+		<SimpleData name="FRP">15.7</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-63.76629,3.39258</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">9</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.47212</SimpleData>
+		<SimpleData name="Longitude">-61.98387</SimpleData>
+		<SimpleData name="FRP">14.2</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.98387,2.47212</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/15 18:17:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">ALTO ALEGRE</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">5</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">0.94</SimpleData>
+		<SimpleData name="Latitude">2.69356</SimpleData>
+		<SimpleData name="Longitude">-63.75794</SimpleData>
+		<SimpleData name="FRP">12.9</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-63.75794,2.69356</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">ALTO ALEGRE</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">7</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.71699</SimpleData>
+		<SimpleData name="Longitude">-61.95728</SimpleData>
+		<SimpleData name="FRP">31.8</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.95728,2.71699</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/10 18:06:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">5</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">0.95</SimpleData>
+		<SimpleData name="Latitude">2.46775</SimpleData>
+		<SimpleData name="Longitude">-61.95389</SimpleData>
+		<SimpleData name="FRP">18.3</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.95389,2.46775</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/15 18:17:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">10</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.66709</SimpleData>
+		<SimpleData name="Longitude">-61.95527</SimpleData>
+		<SimpleData name="FRP">23.4</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.95527,2.66709</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/15 18:17:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">8</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">0.99</SimpleData>
+		<SimpleData name="Latitude">2.40293</SimpleData>
+		<SimpleData name="Longitude">-62.00406</SimpleData>
+		<SimpleData name="FRP">117.3</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.00406,2.40293</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">CARACARAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">11</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">1.94477</SimpleData>
+		<SimpleData name="Longitude">-61.42319</SimpleData>
+		<SimpleData name="FRP">49.2</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.42319,1.94477</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">6</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.38949</SimpleData>
+		<SimpleData name="Longitude">-61.98421</SimpleData>
+		<SimpleData name="FRP">20.3</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.98421,2.38949</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">17</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.56089</SimpleData>
+		<SimpleData name="Longitude">-61.94929</SimpleData>
+		<SimpleData name="FRP">21.8</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.94929,2.56089</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">CARACARAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">6</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">1.9232</SimpleData>
+		<SimpleData name="Longitude">-61.44705</SimpleData>
+		<SimpleData name="FRP">84.9</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.44705,1.9232</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">IRACEMA</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">5</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">0.75</SimpleData>
+		<SimpleData name="Latitude">2.48627</SimpleData>
+		<SimpleData name="Longitude">-63.52684</SimpleData>
+		<SimpleData name="FRP">15.7</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-63.52684,2.48627</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">IRACEMA</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">27</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.11733</SimpleData>
+		<SimpleData name="Longitude">-61.44267</SimpleData>
+		<SimpleData name="FRP">26.8</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.44267,2.11733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/05 17:58:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">CARACARAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">7</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">1.99908</SimpleData>
+		<SimpleData name="Longitude">-61.38045</SimpleData>
+		<SimpleData name="FRP">123.1</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.38045,1.99908</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">ALTO ALEGRE</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">4</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">0.92</SimpleData>
+		<SimpleData name="Latitude">2.85713</SimpleData>
+		<SimpleData name="Longitude">-63.57731</SimpleData>
+		<SimpleData name="FRP">8.8</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-63.57731,2.85713</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">17</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.65624</SimpleData>
+		<SimpleData name="Longitude">-61.92387</SimpleData>
+		<SimpleData name="FRP">27.8</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.92387,2.65624</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/15 18:17:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">ALTO ALEGRE</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">6</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.74767</SimpleData>
+		<SimpleData name="Longitude">-62.04052</SimpleData>
+		<SimpleData name="FRP">140.8</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.04052,2.74767</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">5</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">0.99</SimpleData>
+		<SimpleData name="Latitude">2.74941</SimpleData>
+		<SimpleData name="Longitude">-62.2332</SimpleData>
+		<SimpleData name="FRP">14.1</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.2332,2.74941</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">IRACEMA</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">37</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.18861</SimpleData>
+		<SimpleData name="Longitude">-61.39559</SimpleData>
+		<SimpleData name="FRP">20.6</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.39559,2.18861</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/10 18:06:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">ALTO ALEGRE</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">5</SimpleData>
+		<SimpleData name="Precipitacao">2.27</SimpleData>
+		<SimpleData name="RiscoFogo">0.57</SimpleData>
+		<SimpleData name="Latitude">2.65713</SimpleData>
+		<SimpleData name="Longitude">-63.75478</SimpleData>
+		<SimpleData name="FRP">7.7</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-63.75478,2.65713</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">IRACEMA</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">37</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.1835</SimpleData>
+		<SimpleData name="Longitude">-61.43088</SimpleData>
+		<SimpleData name="FRP">23.4</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.43088,2.1835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/31 17:47:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">CARACARAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">1</SimpleData>
+		<SimpleData name="Precipitacao">0.2</SimpleData>
+		<SimpleData name="RiscoFogo">0.71</SimpleData>
+		<SimpleData name="Latitude">1.89384</SimpleData>
+		<SimpleData name="Longitude">-61.48241</SimpleData>
+		<SimpleData name="FRP">53.4</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.48241,1.89384</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">10</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.481</SimpleData>
+		<SimpleData name="Longitude">-61.98516</SimpleData>
+		<SimpleData name="FRP">23.5</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.98516,2.481</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/10 18:06:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">6</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.50629</SimpleData>
+		<SimpleData name="Longitude">-61.75568</SimpleData>
+		<SimpleData name="FRP">30</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.75568,2.50629</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">IRACEMA</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">35</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.14548</SimpleData>
+		<SimpleData name="Longitude">-61.44336</SimpleData>
+		<SimpleData name="FRP">26.3</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.44336,2.14548</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/15 18:17:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">11</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.40862</SimpleData>
+		<SimpleData name="Longitude">-61.89952</SimpleData>
+		<SimpleData name="FRP">36.1</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.89952,2.40862</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">CARACARAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">9</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">1.94349</SimpleData>
+		<SimpleData name="Longitude">-61.43201</SimpleData>
+		<SimpleData name="FRP">101.6</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.43201,1.94349</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/27 18:19:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">AMAJARI</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">10</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">0.93</SimpleData>
+		<SimpleData name="Latitude">3.16583</SimpleData>
+		<SimpleData name="Longitude">-62.28749</SimpleData>
+		<SimpleData name="FRP">8.2</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.28749,3.16583</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">IRACEMA</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">6</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">1.99559</SimpleData>
+		<SimpleData name="Longitude">-61.51732</SimpleData>
+		<SimpleData name="FRP">20.8</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.51732,1.99559</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/10 18:06:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">6</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.6873</SimpleData>
+		<SimpleData name="Longitude">-61.90355</SimpleData>
+		<SimpleData name="FRP">12.5</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.90355,2.6873</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/31 17:47:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">CARACARAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">1</SimpleData>
+		<SimpleData name="Precipitacao">0.11</SimpleData>
+		<SimpleData name="RiscoFogo">0.94</SimpleData>
+		<SimpleData name="Latitude">1.89978</SimpleData>
+		<SimpleData name="Longitude">-61.47168</SimpleData>
+		<SimpleData name="FRP">69.5</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.47168,1.89978</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">13</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.50534</SimpleData>
+		<SimpleData name="Longitude">-61.81744</SimpleData>
+		<SimpleData name="FRP">5.6</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.81744,2.50534</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">ALTO ALEGRE</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">8</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.73099</SimpleData>
+		<SimpleData name="Longitude">-61.92328</SimpleData>
+		<SimpleData name="FRP">13.9</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.92328,2.73099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">IRACEMA</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">37</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.17974</SimpleData>
+		<SimpleData name="Longitude">-61.3943</SimpleData>
+		<SimpleData name="FRP">14.3</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.3943,2.17974</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">ALTO ALEGRE</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">10</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.73356</SimpleData>
+		<SimpleData name="Longitude">-61.90563</SimpleData>
+		<SimpleData name="FRP">10.2</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.90563,2.73356</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/15 18:17:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">ALTO ALEGRE</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">7</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.75814</SimpleData>
+		<SimpleData name="Longitude">-62.03247</SimpleData>
+		<SimpleData name="FRP">68.8</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.03247,2.75814</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/15 18:17:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">8</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">0.99</SimpleData>
+		<SimpleData name="Latitude">2.39382</SimpleData>
+		<SimpleData name="Longitude">-62.00272</SimpleData>
+		<SimpleData name="FRP">63.8</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.00272,2.39382</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">ALTO ALEGRE</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">8</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.77767</SimpleData>
+		<SimpleData name="Longitude">-62.03831</SimpleData>
+		<SimpleData name="FRP">22.9</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.03831,2.77767</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">CARACARAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">7</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">1.93334</SimpleData>
+		<SimpleData name="Longitude">-61.43953</SimpleData>
+		<SimpleData name="FRP">176.1</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.43953,1.93334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">11</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.49874</SimpleData>
+		<SimpleData name="Longitude">-61.98777</SimpleData>
+		<SimpleData name="FRP">33.1</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.98777,2.49874</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">12</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.49746</SimpleData>
+		<SimpleData name="Longitude">-61.9966</SimpleData>
+		<SimpleData name="FRP">13</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.9966,2.49746</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">CARACARAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">11</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">1.9359</SimpleData>
+		<SimpleData name="Longitude">-61.4219</SimpleData>
+		<SimpleData name="FRP">21.4</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.4219,1.9359</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/15 18:17:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">ALTO ALEGRE</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">6</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.75679</SimpleData>
+		<SimpleData name="Longitude">-62.04184</SimpleData>
+		<SimpleData name="FRP">321.1</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.04184,2.75679</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">CARACARAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">12</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">0.96</SimpleData>
+		<SimpleData name="Latitude">1.72191</SimpleData>
+		<SimpleData name="Longitude">-62.06969</SimpleData>
+		<SimpleData name="FRP">13.3</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.06969,1.72191</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">14</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.53043</SimpleData>
+		<SimpleData name="Longitude">-61.97189</SimpleData>
+		<SimpleData name="FRP">16.2</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.97189,2.53043</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">IRACEMA</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">37</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.15562</SimpleData>
+		<SimpleData name="Longitude">-61.43583</SimpleData>
+		<SimpleData name="FRP">48.1</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.43583,2.15562</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">14</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.66756</SimpleData>
+		<SimpleData name="Longitude">-61.97061</SimpleData>
+		<SimpleData name="FRP">18.9</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.97061,2.66756</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">11</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.48987</SimpleData>
+		<SimpleData name="Longitude">-61.98647</SimpleData>
+		<SimpleData name="FRP">45.5</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.98647,2.48987</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/15 18:17:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">ALTO ALEGRE</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">4</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">0.87</SimpleData>
+		<SimpleData name="Latitude">3.73417</SimpleData>
+		<SimpleData name="Longitude">-63.63486</SimpleData>
+		<SimpleData name="FRP">25.9</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-63.63486,3.73417</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/21 17:28:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">CARACARAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">12</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">1.95347</SimpleData>
+		<SimpleData name="Longitude">-61.40748</SimpleData>
+		<SimpleData name="FRP">60.2</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.40748,1.95347</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">8</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.40103</SimpleData>
+		<SimpleData name="Longitude">-61.9047</SimpleData>
+		<SimpleData name="FRP">9.3</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.9047,2.40103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/10 18:06:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">ALTO ALEGRE</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">1</SimpleData>
+		<SimpleData name="Precipitacao">0.65</SimpleData>
+		<SimpleData name="RiscoFogo">0.78</SimpleData>
+		<SimpleData name="Latitude">3.31934</SimpleData>
+		<SimpleData name="Longitude">-63.25145</SimpleData>
+		<SimpleData name="FRP">17.2</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-63.25145,3.31934</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/15 18:17:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">11</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.39948</SimpleData>
+		<SimpleData name="Longitude">-61.89818</SimpleData>
+		<SimpleData name="FRP">85.2</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.89818,2.39948</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">IRACEMA</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">24</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.10343</SimpleData>
+		<SimpleData name="Longitude">-61.41366</SimpleData>
+		<SimpleData name="FRP">78.3</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.41366,2.10343</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">CARACARAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">9</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">1.93462</SimpleData>
+		<SimpleData name="Longitude">-61.43071</SimpleData>
+		<SimpleData name="FRP">40.1</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.43071,1.93462</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/15 18:17:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">ALTO ALEGRE</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">6</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.74633</SimpleData>
+		<SimpleData name="Longitude">-62.04987</SimpleData>
+		<SimpleData name="FRP">27.6</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.04987,2.74633</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">11</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.48858</SimpleData>
+		<SimpleData name="Longitude">-61.9953</SimpleData>
+		<SimpleData name="FRP">12.6</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.9953,2.48858</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/15 18:17:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">11</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.44521</SimpleData>
+		<SimpleData name="Longitude">-61.90481</SimpleData>
+		<SimpleData name="FRP">46.5</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.90481,2.44521</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/15 18:17:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">12</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.76725</SimpleData>
+		<SimpleData name="Longitude">-62.85926</SimpleData>
+		<SimpleData name="FRP">13.7</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.85926,2.76725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">IRACEMA</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">37</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.1569</SimpleData>
+		<SimpleData name="Longitude">-61.42701</SimpleData>
+		<SimpleData name="FRP">10.1</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.42701,2.1569</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/31 17:47:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">CARACARAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">1</SimpleData>
+		<SimpleData name="Precipitacao">0.2</SimpleData>
+		<SimpleData name="RiscoFogo">0.69</SimpleData>
+		<SimpleData name="Latitude">1.89702</SimpleData>
+		<SimpleData name="Longitude">-61.48954</SimpleData>
+		<SimpleData name="FRP">24.8</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.48954,1.89702</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/22 18:09:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">IRACEMA</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">23</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">1</SimpleData>
+		<SimpleData name="Latitude">2.10215</SimpleData>
+		<SimpleData name="Longitude">-61.42247</SimpleData>
+		<SimpleData name="FRP">80.4</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.42247,2.10215</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/27 18:19:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">MUCAJAÍ</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">0</SimpleData>
+		<SimpleData name="Precipitacao">0</SimpleData>
+		<SimpleData name="RiscoFogo">0.71</SimpleData>
+		<SimpleData name="Latitude">2.6676</SimpleData>
+		<SimpleData name="Longitude">-61.97119</SimpleData>
+		<SimpleData name="FRP">8.7</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.97119,2.6676</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#focos_qmd_inpe_2024_02_29_2024_03_31_57.011423">
+		<SimpleData name="DataHora">2024/03/10 18:06:00</SimpleData>
+		<SimpleData name="Satelite">AQUA_M-T</SimpleData>
+		<SimpleData name="Pais">Brasil</SimpleData>
+		<SimpleData name="Estado">RORAIMA</SimpleData>
+		<SimpleData name="Municipio">ALTO ALEGRE</SimpleData>
+		<SimpleData name="Bioma">Amazônia</SimpleData>
+		<SimpleData name="DiaSemChuva">19</SimpleData>
+		<SimpleData name="Precipitacao">1.24</SimpleData>
+		<SimpleData name="RiscoFogo">0.77</SimpleData>
+		<SimpleData name="Latitude">3.39109</SimpleData>
+		<SimpleData name="Longitude">-63.77651</SimpleData>
+		<SimpleData name="FRP">47.4</SimpleData>
+		<SimpleData name="AreaProtegida">TI YANOMAMI (REGULARIZADA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-63.77651,3.39109</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

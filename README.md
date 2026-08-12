@@ -15,6 +15,9 @@ You can also pull the Landsat 8 imagery yourself from
 [Google Earth Engine](https://earthengine.google.com/) (needs its own API
 credentials); see `src/burnseg_xai/acquisition/` for the download pipeline.
 
+Region boundaries and INPE fire-hotspot references used by the pipeline are
+in `aoi/`.
+
 ## Installation
 
 ```bash
