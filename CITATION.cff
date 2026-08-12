@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "burnseg-xai: Unsupervised Burned Area Segmentation with Explanation-Based Regularization"
+type: software
+authors:
+  - family-names: Monteiro
+    given-names: Daniel Nunes
+    email: daniel.n.monteiro@unesp.br
+    affiliation: "Faculty of Science and Technology, São Paulo State University (UNESP), Presidente Prudente, Brazil"
+  - family-names: Watanabe
+    given-names: Fernanda
+    affiliation: "Faculty of Science and Technology, São Paulo State University (UNESP), Presidente Prudente, Brazil"
+  - family-names: Negri
+    given-names: Rogerio G.
+    affiliation: "Science and Technology Institute, São Paulo State University (UNESP), São José dos Campos, Brazil"
+  - family-names: Ribas
+    given-names: Lucas C.
+    affiliation: "Institute of Biosciences, Humanities and Exact Sciences, São Paulo State University (UNESP), São José do Rio Preto, Brazil"
+  - family-names: Casaca
+    given-names: Wallace
+    email: wallace.casaca@unesp.br
+    affiliation: "Institute of Biosciences, Humanities and Exact Sciences, São Paulo State University (UNESP), São José do Rio Preto, Brazil"
+repository-code: "https://github.com/yingyangtongxue/burnseg-xai"
+license: MIT
+version: 0.1.0
+date-released: "2026-08-12"
+keywords:
+  - burned area detection
+  - explainable AI
+  - unsupervised learning
+  - remote sensing
+  - Landsat 8
