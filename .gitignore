@@ -216,3 +216,34 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# burnseg-xai project-specific
+
+# Local environment
+.env
+
+# Credentials
+secrets/
+*.json.key
+
+# Data and experiment outputs (never tracked; see README for access)
+data/
+outputs/
+mlruns/
+mlflow.db
+
+# Model artifacts
+*.pt
+*.pth
+*.ckpt
+
+# Raster / array data
+*.tif
+*.tiff
+*.npz
+*.npy
+*.h5
+*.hdf5
+
+# Logs
+*.log
