@@ -1,0 +1,60 @@
+[project]
+name = "burnseg-xai"
+version = "0.1.0"
+requires-python = ">=3.10"
+
+dependencies = [
+    "torch",
+    "numpy",
+    "pandas",
+    "tqdm",
+    "mlflow",
+    "matplotlib",
+    "scikit-learn",
+    "scikit-image",
+    "rasterio",
+]
+
+[project.optional-dependencies]
+acquisition = [
+    "earthengine-api",
+    "geemap",
+    "requests",
+    "python-dotenv",
+]
+dev = [
+    "pytest>=8.0",
+    "pytest-mock>=3.14",
+    "ruff>=0.4",
+]
+
+[project.scripts]
+burnseg-download     = "burnseg_xai.acquisition.cli:main_download"
+burnseg-download-all = "burnseg_xai.acquisition.cli:main_download_all"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts   = "-v --tb=short -q"
+pythonpath = ["."]
+markers   = [
+    "gee: requires live GEE credentials (skipped in CI)",
+]
+
+[tool.ruff]
+line-length = 120
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I"]
+ignore = [
+    "E501",   # line too long: formatter handles this
+    "E701",   # multiple statements on one line (colon): compact argparse style
+    "E702",   # multiple statements on one line (semicolon): plotting scripts
+]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/**"                              = ["F401"]   # test scaffolding imports
+"src/burnseg_xai/analysis/**"          = ["F841"]   # unused matplotlib return values
+
+[tool.setuptools.packages.find]
+where = ["src"]

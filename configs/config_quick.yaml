@@ -1,0 +1,42 @@
+# Quick experiment -- verifies that XAI (RRR / saliency map) is active in
+# the training loop before committing time to a full run.
+# Goal: confirm val_saliency_cosine > 0 and train_rrr_loss > 0.
+#
+# Run:
+#   python -m burnseg_xai.pipeline.run_experiment --config configs/config_quick.yaml
+#
+# Expected metrics:
+#   - train_rrr_loss  > 0   (RRR signal active)
+#   - val_saliency_cosine > 0  (saliency aligned with dNBR)
+#   - No NaN in any metric
+
+paths:
+  dataset_root: "./data"
+  output_root: "./outputs/quick"
+
+training:
+  seed: 43
+  batch_size: 2
+  epochs: 20
+  lr: 1.0e-4
+  device: "cuda"
+  early_stopping_patience: 10
+
+data:
+  temporal_length: 1
+  num_workers: 0
+  max_samples: 500
+
+model:
+  in_channels: 21
+
+rrr:
+  lambda_rrr: 0.1
+  rrr_distance_metric: "mse"
+
+checkpointing:
+  checkpoint_dir: "./outputs/quick/checkpoints"
+
+mlflow:
+  mlflow_experiment: "burned_area_quick"
+  mlflow_tracking_uri: "./outputs/mlruns"

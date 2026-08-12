@@ -1,0 +1,29 @@
+paths:
+  dataset_root: "/workspace/dataset_mestrado"
+  output_root: "/workspace/experimento_queimadas"
+
+training:
+  seed: 43
+  batch_size: 32          # 32GB VRAM (RTX 5090) allows larger batch
+  epochs: 300
+  lr: 1.0e-4
+  device: "cuda"
+  early_stopping_patience: 20
+
+data:
+  temporal_length: 1
+  num_workers: 0
+
+model:
+  in_channels: 21         # channels 0-19 + 21 (dNDVI); channel 20 (dNBR) excluded
+
+rrr:
+  lambda_rrr: 0.0         # 0.0 = baseline; > 0.0 = RRR regularization active
+  rrr_distance_metric: "mse"   # "mse" or "cosine"
+
+checkpointing:
+  checkpoint_dir: "/workspace/experimento_queimadas/checkpoints"
+
+mlflow:
+  mlflow_experiment: "burned_area"
+  mlflow_tracking_uri: "/workspace/experimento_queimadas/mlruns"
